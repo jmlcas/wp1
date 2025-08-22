@@ -1,4 +1,3 @@
-# wp1
-WordPress + MariaDB + phpMyAdmin
+# WordPress + MariaDB + phpMyAdmin
 
-Ver en "localhost:8101"
+Ver en "http://localhost:8101"
